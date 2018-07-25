@@ -5,6 +5,8 @@ This can be useful for server owners to display custom data (such as server ids,
 
 This plugin provides a safe way to set the brand displayed to the user.
 
+![](https://i.imgur.com/YIpk7nK.png)
+
 ## How to use
 ### Config
 ```yaml
