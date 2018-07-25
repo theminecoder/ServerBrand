@@ -1,0 +1,5 @@
+name: ServerBrand
+version: ${project.version}
+main: me.theminecoder.minecraft.serverbrand.ServerBrandSpigot
+commands:
+  brand: {}

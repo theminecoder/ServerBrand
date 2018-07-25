@@ -1,0 +1,3 @@
+#The string to display in the debug menu.
+#On bungeecord you can use %%server%% to insert the brand coming from the backend server, eg to show the instance id
+brand: "My Server"
